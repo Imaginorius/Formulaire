@@ -4,11 +4,11 @@ var dispcarac= document.getElementById('dispnbchar');
 /* changer de page */
 function changepage() {
     
-   /* var count= nbcarac.value.length;
-   if(count>=10) {*/
+    var count= nbcarac.value.length;
+   if(count>=10) {
      document.getElementById('diaporama').style.marginLeft="-100%";
 
-   /*}*/
+   }
 }
 
 
